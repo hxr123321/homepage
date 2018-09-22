@@ -7,4 +7,4 @@ My name is Huang Xinru（黄馨茹）.
  3. wechat: hxr827434054
 
 ## photo
-！[image](https://github.com/hxr123321/homepage/blob/master/photo.jpg)
+！[image](https://github.com/hxr123321/homepage/blob/master/照片.jpg)
